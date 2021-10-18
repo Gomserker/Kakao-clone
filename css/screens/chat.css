@@ -84,6 +84,7 @@
 .message__info {
   display: flex;
   align-items: flex-end;
+  margin-bottom: 20px;
 }
 
 .message__bubble {
